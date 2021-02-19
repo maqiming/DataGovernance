@@ -2,6 +2,6 @@
 
 > 从0.5开始学习数据治理
 
-[开始](ReadMe)
+[开始](READMES)
 
 ![color](#DFFFDF)
