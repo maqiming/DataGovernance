@@ -1,4 +1,4 @@
-* [首页](readme)
+* [首页](/)
 * [摘要](abstract)
 * [一: 数据治理的目标](article/chapter1)
 * [二: 技术支持](article/chapter2)
