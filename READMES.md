@@ -27,6 +27,7 @@
     - 逐步从单个业务域扩展到整个业务体系
     - 接收反馈并迭代设计
 
-
 ********
-[GitHub](https://github.com/maqiming/DataGovernance)
+##### 参考
+- [1] DAMA数据管理知识体系指南(原书第2版)
+- [2] 老杜说数据治理
