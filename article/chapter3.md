@@ -1,4 +1,4 @@
-# 三: 系统建设
+# 三: 数据中心
 > 数据中心
 ********
 
@@ -15,3 +15,10 @@
 
 ### 2.整体架构
 ![avatar](data_center.jpg)
+
+### 3.技术框架
+
+- 数据存储: MySQL, ColumnStore, ClickHouse
+- ETL支持: Kettle, Python, SQL, DataX
+- 工作流与任务调度: apache-airflow, celery
+
