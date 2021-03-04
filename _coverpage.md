@@ -5,6 +5,6 @@
 
 - [GitHub](https://github.com/maqiming/DataGovernance)
 
-[开始](READMES)
+[开始](ReadMe_)
 
 ![color](#DFFFDF)
